@@ -1,4 +1,4 @@
-🇮🇹 
+:it:
 # Generatore di README
 
 Questo progetto è un semplice generatore di README che può essere utilizzato per creare un file README.md ben strutturato per i tuoi progetti.
@@ -41,8 +41,7 @@ Se vuoi contribuire a questo progetto, sentiti libero di aprire una pull request
 
 Questo progetto è distribuito sotto la licenza MIT. Vedi il file [LICENSE](LICENSE) per maggiori dettagli.
 
-
-🇬🇧
+:gb: 
 # README Generator
 
 This project is a simple README generator that can be used to create a well-structured README.md file for your projects.
